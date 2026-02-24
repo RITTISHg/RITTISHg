@@ -26,10 +26,11 @@
 ```js
 const rittish = {
     pronouns: "He/Him",
-    role: "Full-Stack Developer & Electrical Engineering Student",
+    role: "Electrical Engineering Student & Full-Stack Developer",
     location: "India 🇮🇳",
     
-    education: "B.E. Electrical Engineering",
+    education: "B.E. Electrical Engineering ⚡",
+    motto: "Hoping for the best, always — and building to make it happen! 🚀",
     
     currentlyBuilding: [
         "🌍 Real-Time Air Quality Monitoring Dashboard",
@@ -37,9 +38,11 @@ const rittish = {
         "🤖 AI-Powered Tic Tac Toe Agent"
     ],
 
-    passions: ["IoT Systems", "AI/ML", "Data Visualization", "Clean Architecture"],
+    passions: ["IoT & Embedded Systems", "AI/ML", "Data Visualization", "Clean Architecture"],
     
-    funFact: "I build software that bridges hardware and the cloud ⚡"
+    superpower: "Turning circuits into code & hardware into cloud-connected systems ⚡",
+    
+    belief: "Every line of code is a step closer to something amazing 💡"
 };
 ```
 
