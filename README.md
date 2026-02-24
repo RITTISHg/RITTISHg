@@ -151,17 +151,6 @@ const rittish = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RITTISHg&bg_color=0D1117&color=7a5fff&line=00d2ff&point=ff6fd8&area=true&area_color=7a5fff&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
 </p>
 
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=RITTISHg&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
-
-<br/>
 
 ---
 
