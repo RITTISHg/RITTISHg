@@ -11,8 +11,8 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.4.1
         with:
           github_user_name: RITTISHg
           outputs: |
