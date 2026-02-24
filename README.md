@@ -135,8 +135,8 @@ const rittish = {
 
 <p align="center">
   <a href="https://github.com/RITTISHg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RITTISHg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7a5fff&icon_color=00d2ff&text_color=c9d1d9&ring_color=ff6fd8&count_private=true" alt="Rittish's Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITTISHg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7a5fff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RITTISHg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7a5fff&icon_color=00d2ff&text_color=c9d1d9&ring_color=ff6fd8&count_private=true" alt="Rittish's Stats"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RITTISHg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7a5fff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
@@ -155,7 +155,7 @@ const rittish = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RITTISHg&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=RITTISHg&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </p>
 
 <br/>
@@ -195,11 +195,15 @@ const rittish = {
 
 ## 📈 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RITTISHg/RITTISHg/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RITTISHg/RITTISHg/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RITTISHg/RITTISHg/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RITTISHg/RITTISHg/output/github-snake-dark.svg" />
+</picture>
 
-> 💡 *Setup with [GitHub Actions](https://github.com/Platane/snk) to auto-generate the snake animation from your contribution graph!*
+> 💡 *Auto-generated every 12 hours via [GitHub Actions](https://github.com/Platane/snk) from my contribution graph!*
+> 
+> ⚠️ *If the snake doesn't appear, [click here to trigger the workflow manually](https://github.com/RITTISHg/RITTISHg/actions/workflows/snake.yml) → Run workflow*
 
 <br/>
 
